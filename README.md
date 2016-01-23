@@ -2,6 +2,8 @@
 
 A File Copier that can copy file tree to the destination with a simple regular expression.
 
+Status: ![status](https://api.travis-ci.org/lephix/FileCopier.svg)
+
 ## Usage
 
 ### With source code
